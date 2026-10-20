@@ -1,0 +1,2 @@
+[console_scripts]
+devsnap = devsnap.cli:app
